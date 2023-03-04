@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:white;
+    text-align: center;
+    font-family: Merriweather,serif;
+}
+h1{
+    font-family: sacramento,cursive;
+    font-size:5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: Montserrat, sans-serif;
+    font-size:2.5rem ;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+    margin-top: 30px;
+}
+h3{
+    font-family: Montserrat, sans-serif;
+      color: #11999E;
+      line-height: 3;
+}
+.top-container{
+    background-color: #e4f9f5;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    padding-top: 100px;
+}
+.cloud-one{
+    position: relative;
+    left: 15%;
+}
+.cloud-two{
+    position: absolute;
+  
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.reduce{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.reducer{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+.profile{
+    margin-top: 30px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    text-align: center;
+    border-width: 10px;
+    width: 8%;
+    margin: 0 auto;
+    color: #EAF6F6;
+  
+}
+.intro{
+  line-height: 2;
+  color: #40514E;
+  text-align: center;
+}
+.pic-of-me{
+    border:5px groove #66BFBF;
+    border-radius: 50%;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 200px;
+    margin: 0;
+    margin-top: 80px;
+}
+.footer-link{
+    text-decoration: none;
+    color: #11999E;
+    padding: 30px;
+    line-height: 8;
+}
+.footer-link:hover{
+    color: white;
+}
+.end{
+    color: #EAF6F6;
+}
+button{
+    border-radius: 8px;
+    background-color:#11cdd4;
+    padding: 13px;
+    border: none;
+}
+button:hover{
+    background-color:#2bc4ad;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
