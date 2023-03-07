@@ -98,7 +98,8 @@ hr{
 .footer-link{
     text-decoration: none;
     color: #11999E;
-    margin: 20px;
+      padding: 30px;
+    line-height: 8;
 }
 .footer-link:hover{
     color:#EAF6F6;
