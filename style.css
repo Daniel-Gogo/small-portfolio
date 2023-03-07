@@ -41,7 +41,6 @@ h3{
 }
 .cloud-two{
     position: absolute;
-    left: 250px;
   
 }
 .mountain{
@@ -107,7 +106,6 @@ hr{
 .end{
     color: #EAF6F6;
     font-size: 0.7rem;
-    padding: 20px 0;
 }
 button{
     border-radius: 8px;
