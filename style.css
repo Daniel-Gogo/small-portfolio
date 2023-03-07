@@ -6,6 +6,7 @@ body{
     background-color:white;
     text-align: center;
     font-family: Merriweather,serif;
+    color:#40514e;
 }
 h1{
     font-family: sacramento,cursive;
@@ -36,11 +37,18 @@ h3{
 }
 .cloud-one{
     position: relative;
-    left: 15%;
+    left: 20%;
 }
 .cloud-two{
     position: absolute;
+    left: 250px;
   
+}
+.mountain{
+    max-width: 80%;
+}
+.middle-container{
+margin:100px 0 ;
 }
 .skill-row{
     width: 50%;
@@ -74,7 +82,8 @@ hr{
 .intro{
   line-height: 2;
   color: #40514E;
-  text-align: center;
+  margin: auto;
+  width: 50%;
 }
 .pic-of-me{
     border:5px groove #66BFBF;
@@ -82,21 +91,23 @@ hr{
 }
 .bottom-container{
     background-color: #66BFBF;
-    height: 200px;
-    margin: 0;
+    height: 150px;
+    padding: 50px 0 20px;
     margin-top: 80px;
+    max-width: 100%;
 }
 .footer-link{
     text-decoration: none;
     color: #11999E;
-    padding: 30px;
-    line-height: 8;
+    margin: 20px;
 }
 .footer-link:hover{
-    color: white;
+    color:#EAF6F6;
 }
 .end{
     color: #EAF6F6;
+    font-size: 0.7rem;
+    padding: 20px 0;
 }
 button{
     border-radius: 8px;
